@@ -49,6 +49,9 @@ section {
   margin: 0 auto;
 }
 
+strong {
+  font-family: 'Roboto Serif';
+}
 section h2 {
   background-color: #FED7AA;
   padding: 8px 16px;
